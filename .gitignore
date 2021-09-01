@@ -3,3 +3,6 @@
 *.s
 *.o
 *.out
+*.code-workspace
+
+*/bin/
